@@ -1,1 +1,1 @@
-My name is Abhishek Dutt and I am good in C.
+My name is Abhishek Dutt and I am good in C/C++.
